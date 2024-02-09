@@ -9,3 +9,13 @@ Links planilha: https://docs.google.com/spreadsheets/d/e/2PACX-1vQLR-8DpkVUyxOlO
 
 **Versão Laravel** :
 **Versão Javascript** :
+
+<h3>Comandos</h3>
+
+**git clone** https://github.com/DaviMoreira27/DesafioTunts2024-DevTraining
+
+Dentro do diretório:
+
+**composer install**
+
+**php -S localhost:8000**
