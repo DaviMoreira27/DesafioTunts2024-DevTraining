@@ -18,4 +18,4 @@ Dentro do diretório:
 
 **composer install**
 
-**php -S localhost:8000**
+**php -S localhost:8000** ou **php -S localhost:3000**

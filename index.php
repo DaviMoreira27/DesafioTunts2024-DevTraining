@@ -1,6 +1,5 @@
 <?php
 
-
 require_once './Student.php';
 
 use Student\Student;
